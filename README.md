@@ -1,4 +1,4 @@
-# legacy--windows-drivers-for-mac
+# legacy-mac-drivers-for-windows 
 
 legacy drivers for windows (bootcamp but better) 
 
@@ -7,4 +7,10 @@ YOU NEED TO KNOW WHAT MAC YOU ARE RUNNING AS I WILL NOT BE RESPONSIBLE FOR DATA 
 
 as it supports newer versions of windows than officially supported (a bit like patching mac os)
 
+DISCLAMERS:
+THIS IS ALSO AT THE MOMENT ONLY GOING TO SUPPORT WINDOWS 11 NOT 10 ATM
+PREFORMANCE WILLL VARY DEPENDING ON YOUR HARDWARE 
 (this is still under development and is comming soon as i am 14 and am not great at coding help would be greatly appreciated)
+FIRST RELLESE WILL ONLY REPLACE THE GRAPHICS AND WIFI/BLUTOOTH DRIVERS  TRACKPAD DRIVERS WILL NOT BE SWAPPED
+LATER RELESES WILL OPEN THE SUPPORT TO OLDER VERSIONS OF WINDOWS (IF UR A PSYCO)
+UPDATES COULD CAUSE ISSUES WITH PATCHES SO DONT UPDATE UNLESS YOU HAVE THE PATCHES FOR THE CURRENT UPDATE OR NEW PATCHES ARE NOT REQIRED
