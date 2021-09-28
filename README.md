@@ -1,4 +1,4 @@
-# macbook-legacy-windows-drivers
+# legacy--windows-drivers-for-mac
 
 legacy drivers for windows (bootcamp but better) 
 
