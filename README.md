@@ -1,8 +1,6 @@
 updatisoft(mac)
 
-
-
-
+THIS IS NOT FINISHED YET PLEASE USE THE UPDATISOFT (PC FOR NOW THANK YOU FOR YOUR CONCIDERATION
 
 
 legacy drivers for windows (bootcamp but better) 
